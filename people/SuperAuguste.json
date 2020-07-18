@@ -1,6 +1,11 @@
 {
 	"comments": [
 		{
+			"author": "haze",
+			"comment": "this is cool",
+			"rating": 4.2
+		},
+		{
 			"author": "SuperAuguste",
 			"comment": "Test comment - Auguste is a good memer!!",
 			"rating": 6.9
